@@ -1,2 +1,2 @@
 # digispark-scripts
-Coletânea de Scripts para o digispark attiny85
+Coletânea de Scripts Para o Digispark Attiny85
